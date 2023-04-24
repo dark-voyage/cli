@@ -2,11 +2,11 @@
 name = "hasetsu"
 version = "0.1.0"
 edition = "2021"
-homepage = "https://github.com/katsuki-yuri/goodbye"
-repository = "https://github.com/katsuki-yuri/goodbye"
-description = "Very last goodbye from Yuri Katsuki"
+homepage = "https://github.com/hasetsu/cli"
+repository = "https://github.com/hasetsu/cli"
+description = "CLI application made for Hasetsu"
 authors = ["Yuri Katsuki <katsuki.moe>"]
-keywords = ["goodbye", "yuri", "katsuki", "sayonara"]
+keywords = ["anime", "hasetsu"]
 readme = "readme.md"
 license = "MIT"
 
