@@ -1,0 +1,15 @@
+[package]
+name = "hasetsu"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+homepage = "https://github.com/katsuki-yuri/goodbye"
+repository = "https://github.com/katsuki-yuri/goodbye"
+description = "Very last goodbye from Yuri Katsuki"
+authors = ["Yuri Katsuki <katsuki.moe>"]
+keywords = ["goodbye", "yuri", "katsuki", "sayonara"]
+readme = "readme.md"
+license = "MIT"
