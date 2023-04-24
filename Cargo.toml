@@ -2,7 +2,7 @@
 name = "hasetsu"
 version = "0.1.0"
 edition = "2021"
-homepage = "https://github.com/hasetsu/cli"
+homepage = "https://crates.io/crates/hasetsu"
 repository = "https://github.com/hasetsu/cli"
 description = "CLI application made for Hasetsu"
 authors = ["Yuri Katsuki <katsuki.moe>"]
